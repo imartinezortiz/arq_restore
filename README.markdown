@@ -4,6 +4,8 @@ An open-source command-line utility for restoring from backups created by [Arq](
 
 Download arq_restore in binary form [here](http://sreitshamer.github.com/arq_restore/).
 
+The oficial documentation of the binary format can be downloaded from (https://www.haystacksoftware.com/arq/s3_data_format.txt), for convenience the documentation (retrieved 2015/03/24) is available in the repository [s3_data_format.txt](s3_data_format.txt)
+
 
 ## Usage
 
